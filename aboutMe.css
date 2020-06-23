@@ -1,0 +1,31 @@
+.pic,.pose,.plz {
+    height:450px;
+    width: 300px;
+    margin-left: 90px;
+    border-radius: 20%;
+    
+
+}
+body {
+    background-color: maroon;
+    font-family: cursive;
+}
+h1,h2{
+    color: rgb(233, 21, 92);
+    text-align: center;
+}
+ul{
+    text-align: center;
+    list-style-position: inside;
+    font-size: x-large;
+    color: rgb(233, 21, 92)
+    ;
+}
+h3{
+    font-size: x-small;
+    text-align: center;
+}
+
+mi{
+    text-align: right;
+}
