@@ -10,11 +10,12 @@
 }
 
 body {
-    font-family: Dancing script, cursive;
+    font-family: Dancing script;
     margin-top: 0px;
     margin-left: 0px;
     margin-bottom: 0px;
     margin-right: 0px;
+    font-weight: bolder;
 }
 h1,h2{
     color: rgb(248, 141, 79);
@@ -27,7 +28,8 @@ ul{
     list-style-position: inside;
     font-size: xxx-large;
     color: rgb(248, 141, 79);
-    margin-bottom: 0px
+    margin-bottom: 0px;
+    background-blend-mode: lighten
 
     ;
 }
@@ -48,3 +50,6 @@ h3{
     color: rgb(233, 73, 73);
     font-size: x-large;
 }
+form{
+    color: rgb(248, 141, 79);
+    font-size: xx-large;
