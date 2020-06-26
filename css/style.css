@@ -1,7 +1,7 @@
 .pic,.pose,.plz {
     height:450px;
     width: 300px;
-    margin-left: 6.5cm;
+    margin-left: 2cm;
     border-radius: 20%;
     border-style: ridge;
     border-color: white;
@@ -16,6 +16,7 @@ body {
     margin-left: 0px;
     margin-bottom: 0px;
     margin-right: 0px;
+   
 }
 h1,h2{
     color: rgb(255, 255, 255);
@@ -55,4 +56,7 @@ h3{
 form{
     color: rgb(255, 255, 255);
     font-size: xx-large;
+}
+html {
+    background-image: url(https://media1.tenor.com/images/7f0e3f7fa9cfb3bcb544fbee37d38bba/tenor.gif?itemid=16409533);
 }
